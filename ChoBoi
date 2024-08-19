@@ -30,6 +30,7 @@ OrionLib:MakeNotification({
 Tab:AddButton({
 	Name = "Tất Cả Chức Năng",
 	Callback = function()
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/9Strew/roblox/main/gamescripts/evade.lua'))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Evade"))()
   	end    
 })
+
